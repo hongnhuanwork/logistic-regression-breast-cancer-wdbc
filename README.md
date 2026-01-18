@@ -4,7 +4,7 @@
 This project applies Logistic Regression to classify breast cancer as benign or malignant using the Wisconsin Diagnostic Breast Cancer (WDBC) dataset.
 
 ## Dataset
-- Source: UCI Machine Learning Repository
+- Source: Breast Cancer Wisconsin (Diagnostic) Data Set
 - Features: 30 numeric features computed from digitized images of breast mass
 
 ## Methodology
